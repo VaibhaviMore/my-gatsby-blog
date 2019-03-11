@@ -11,8 +11,6 @@
 + [Deploy with Netlify](http://github.com/vaibhavimore/my-gatsby-blog#deploy-with-netlify)
 + [Related](http://github.com/vaibhavimore/my-gatsby-blog#related)
 + [Contributors](http://github.com/vaibhavimore/my-gatsby-blog#contributors)
-+ [Backers](http://github.com/vaibhavimore/my-gatsby-blog#backers)
-+ [Sponsors](http://github.com/vaibhavimore/my-gatsby-blog#sponsors)
 + [Credits](http://github.com/vaibhavimore/my-gatsby-blog#credits)
 + [License](http://github.com/vaibhavimore/my-gatsby-blog#license)
 
@@ -63,26 +61,6 @@ Thanks goes to these wonderful people!
 :---: |:---: |:---: |
 [swapnilmishra](https://github.com/swapnilmishra) |[vvasiloud](https://github.com/vvasiloud) |[wichopy](https://github.com/wichopy) |
 
-## Backers [![Backers on Open Collective](https://opencollective.com/lumen/backers/badge.svg)](#backers)
-
-Thank you to all our backers!
-
-<a href="https://opencollective.com/lumen#backers" target="_blank"><img src="https://opencollective.com/lumen/backers.svg?width=890"></a>
-
-## Sponsors [![Sponsors on Open Collective](https://opencollective.com/lumen/sponsors/badge.svg)](#sponsors)
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<a href="https://opencollective.com/lumen/sponsor/0/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/1/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/2/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/3/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/4/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/5/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/6/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/7/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/8/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/lumen/sponsor/9/website" target="_blank"><img src="https://opencollective.com/lumen/sponsor/9/avatar.svg"></a>
 
 ## Credits
 Nature graphic by [Anna Bearne](https://www.behance.net/annabearne) from [Noun Project](https://thenounproject.com/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode).
