@@ -1,31 +1,26 @@
 ---
 title: PHP
-date: "2019-03-08T22:40:08.169Z"
+date: "2024-02-02T22:40:08.169Z"
 template: "post"
 draft: false
 slug: "/posts/php-post-1/"
 category: "scripting"
 tags:
-  - "PHP"
+  - "Amazon"
   - "Server Side Scripting"
-  - "Web Development"
-description: "Today, I am going to write about the hurdles I face while making my PHP project"
+  - "Products"
+description: ""
 ---
 
-- [Submit a form with \<a> tag](#submit-a-form)
-- [Navigate to another page](#Navigate-to-another-page)
-- [SQL Queries in PHP](#sql-queries-in-php)
-
+- [Sanixway Hand Soap Refill Tablets](#Sanixway-Hand-Soap-Refill-Tablets) [Sanixway Hand Soap Refill Tablets](#submit-a-form)
+  
 
 ## Submit a form with \<a> tag
 
-## Navigate to another page
+## Check out this product
 
-When you need to navigate to another page after doing computation in php, use the following code
+Sanixway Hand Soap Refill Tablets
 
-```php
-<?php
-echo "<script>location.href='file-name.php'; </script>";
-?>
-```
-## SQL Queries in PHP
+$url="https://www.amazon.ca/gp/product/B09TN6TT58?smid=A3E738Z1L78IHW&th=1&linkCode=ll1&tag=vaibhavimore-20&linkId=4460dce595285c07f50189764ca5c2d4&language=en_CA&ref_=as_li_ss_tl"
+echo "<a href='$url'>Refill Tablets</a>";
+
